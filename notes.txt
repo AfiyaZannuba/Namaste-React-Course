@@ -1,0 +1,4 @@
+-npm is a standard repository for all packages
+-npm init / npm init -y
+-Package.json file is configuration file for npm
+-Most important package in a project is bundler. Eg: webpack, parcel, vite. create-react-app uses webpack as the bundler.
